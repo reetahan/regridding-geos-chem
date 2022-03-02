@@ -7,4 +7,6 @@ pip install -r requirements.txt
 ```
 to make sure all requirements are present on your machine if you are running this notebook locally, and of course, make sure you have a Python3 installation. Otherwise, the notebook should be self-containing!
 
+Here is the general workflow of the code
+
 ![workflow](https://github.com/reetahan/regridding-geos-chem/blob/main/workflow_img.png)
